@@ -1,4 +1,4 @@
-# ai
+# Ai Skin Detect App
 
 A new Flutter project.
 
